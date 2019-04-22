@@ -11,4 +11,4 @@ client.on('message', message => {
     message.reply('no u nigga lmao yeet');
   }
 });
-client.login(process.env.NTY5NjAzMjE3MTcyODU2ODMy.XLzaSg.OeNYopOp-51OGjKao-WNmBBNauk);
+client.login(process.env.BOT_TOKEN);
